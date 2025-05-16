@@ -17,7 +17,7 @@ day 6  (May, 10th, 2025): learning SpringBoot from YouTube 'telusko'. learning t
 3-exceptions
 4-thow,throws
 day 7  (May, 11th, 2025): learning SpringBoot from YouTube 'telusko'. learning time: 2.5 hours:- 
-1-Threads, thread status, thread sleep, sync methods, thread prior.
+1-Threads, thread status, thread sleep, sync methods, thread priorty.
 2-inputStream
 3-bufferReader
 3-Scanner
@@ -26,3 +26,8 @@ day 8  (May, 12th, 2025): learning SpringBoot from YouTube 'telusko'. learning t
 day 9  (May, 14th, 2025): learning SpringBoot from YouTube 'telusko'. learning time: 1.30 hour:- 
 1-Stream(map,filter,reduce).
 2-JDK 21 new features
+day 10  (May, 15th, 2025): learning SpringBoot from YouTube 'telusko'. learning time: 2 hours:- 
+1-juinit(what is it)
+2-assertEquals method
+3-what is maven
+4-start learning testing 
